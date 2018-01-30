@@ -1,6 +1,7 @@
 <?php
 
-//teste de alteração
+//teste de alteração.
+//segunda alteração.
 class Documento {
 
     private $numero;
